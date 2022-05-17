@@ -71,12 +71,3 @@ app.post("/success", function (req, res) {
 app.listen(process.env.PORT || 3000, function () {
     console.log("servidor funcionando en el puerto 3000");
 })
-
-
-// API Key
-
-// bf8b3953f6b95bea5693a8b8b8305f19-us12
-
-// List ID
-
-// bad4ab4563
